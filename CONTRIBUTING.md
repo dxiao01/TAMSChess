@@ -1,7 +1,6 @@
 ## Installation and Setup Instructions
 
-
-#### Example:  
+ 
 
 Clone this repository with `git clone https://github.com/dxiao01/TAMSChess.git` in an appropriate location. You will need `node` and `npm` installed globally on your machine.  
 
