@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/TAMSChess/static/css/main.ae575ebc.css",
+    "main.js": "/TAMSChess/static/js/main.c2d2c6ec.js",
+    "static/media/rheachess4.jpeg": "/TAMSChess/static/media/rheachess4.5b5091773d53e04add52.jpeg",
+    "index.html": "/TAMSChess/index.html",
+    "main.ae575ebc.css.map": "/TAMSChess/static/css/main.ae575ebc.css.map",
+    "main.c2d2c6ec.js.map": "/TAMSChess/static/js/main.c2d2c6ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae575ebc.css",
+    "static/js/main.c2d2c6ec.js"
+  ]
+}
