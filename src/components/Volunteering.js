@@ -8,9 +8,9 @@ const Volunteering = () => {
     <div class="rounded overflow-hidden shadow-xl bg-white h-64">
       
       <div class="px-6 py-5">
-        <div class="font-bold text-xl mb-2">Emily Fowler Volunteering 1</div>
+        <div class="font-bold text-xl mb-2">Emily Fowler Volunteering</div>
         <p class="text-gray-700 text-base">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, Nonea! Maiores et perferendis eaque, exercitationem praesentium nihil.
+          We hold a monthly chess night at Emily Folwer Central Library aimed towards kids of all ages! We teach them anything from the basics of playing the game to opening principles and tactics! Don't worry if you barely know how to play, come volunteer with us!
         </p>
       </div>
       
@@ -19,9 +19,9 @@ const Volunteering = () => {
     <div class="rounded overflow-hidden shadow-xl bg-white h-64">
       
       <div class="px-6 py-4">
-        <div class="font-bold text-xl mb-2">Emily Fowler Volunteering 2</div>
+        <div class="font-bold text-xl mb-2">Summer Volunteering</div>
         <p class="text-gray-700 text-base">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, Nonea! Maiores et perferendis eaque, exercitationem praesentium nihil.
+          Over the summer, we're looking at the possibility of hosting a free chess summer camp! Stay tuned for more information!
         </p>
       </div>
       
@@ -31,9 +31,9 @@ const Volunteering = () => {
     <div class="rounded overflow-hidden shadow-xl bg-white h-64">
       
       <div class="px-6 py-4">
-        <div class="font-bold text-xl mb-2">Emily Fowler Volunteering 3</div>
+        <div class="font-bold text-xl mb-2">Other Opportunities</div>
         <p class="text-gray-700 text-base">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, Nonea! Maiores et perferendis eaque, exercitationem praesentium nihil.
+          We've also been reaching out to other local libraries and civic centers to see if they're interested in holding chess events. Stay tuned for more information!
         </p>
       </div>
       
