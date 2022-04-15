@@ -9,7 +9,7 @@ const Home = () => {
                     <h2 class="relative text-4xl font-extrabold tracking-tight text-gray-300">WELCOME CHESS ENTHUSIASTS!</h2>
                 </div>
                 <div class="text-xl text-gray-300 pb-10">
-                TAMS Chess Club is a place for TAMS students to, well, play chess, the age-old classic. We welcome players of all skill levels, from beginners to advanced, and even those who are just getting into the game. We hope that we can spark an enjoyment of chess in not only the TAMS community, but the wider Denton area through volunteering. We also plan on holding practices and workshops, attending tournaments, and maybe even holding a TAMS tournament!
+                TAMS Chess Club is a place for TAMS students to, well, play chess. We welcome players of all skill levels, from beginners to advanced, and even those who are just getting into the game. We hope that we can spark an enjoyment of chess in not only the TAMS community, but the wider Denton area through hosting chess nights at local venues. We also hold weekly practices/workshops and will be holding a TAMS Tournament!
                 </div>
             </div>
         </div>
