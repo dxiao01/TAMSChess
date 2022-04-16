@@ -6,7 +6,9 @@ import moment from 'moment'
 
 const localizer = momentLocalizer(moment)
 const myEventsList = [
-  { start: new Date("4/16/22"), end: new Date("4/18/22"), title: "Chess Tournament" }
+  { start: new Date("4/16/22"), end: new Date("4/18/22"), title: "Chess Tournament" },
+  { start: new Date("4/22/22"), end: new Date("4/22/22"), title: "Emily Folwer Chess Night" }
+  
 ];
 const Events = () => {
   return (
